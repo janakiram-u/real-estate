@@ -1,0 +1,73 @@
+.card .header {
+    color: #555;
+    padding: 25px;
+    position: relative;
+    border-bottom: 1px solid rgba(204, 204, 204, 0.35);
+    
+}
+.rows {
+   
+    margin: 0 -15px;
+    padding-bottom: 20px;
+}
+.card3 {
+    background: #fff;
+    min-height: 50px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+    margin-bottom: 30px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 2px;
+    width: fit-content;
+    margin-top: 30px;
+    height: auto;
+    
+}
+.col-lg-4 {
+    width: 33.33333333%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.card3 .header .col-xs-12 h2 {
+    margin-top: 5px;
+    left:0;
+}
+.card3 .header h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: normal;
+    color: #111;
+}
+.form-group {
+    width: 100%;
+    margin-bottom: 25px;
+    border: none;
+
+}
+.graphs{
+    display: flex;
+    padding: 4 0px;
+    margin-right: auto;
+    margin-left:-10px;
+    align-items: center;
+    width: 1000px;
+}
+.leftgraph{
+   flex:2;
+   
+  
+}
+.rightgraph{
+    flex:2;
+    margin-left: 38px;
+    
+    
+    
+    
+}

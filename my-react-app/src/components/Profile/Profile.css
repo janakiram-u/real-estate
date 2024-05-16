@@ -1,0 +1,43 @@
+
+
+.container {
+    background-color: #bac3ca; 
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .form-control {
+    border: none; 
+    border-bottom: 1px solid #007bff; 
+    border-radius: 0; 
+    margin-bottom: 15px;
+    outline: none; 
+    background-color:#bac3ca;
+  }
+  
+  
+  
+  .btn-primary:hover {
+    background-color: #e64d45; 
+  }
+  
+  .user-details {
+    background-color: #fdfd96; 
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .user-details h2 {
+    margin-bottom: 20px;
+  }
+  
+  .user-details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-details li {
+    margin-bottom: 10px;
+  }
+  

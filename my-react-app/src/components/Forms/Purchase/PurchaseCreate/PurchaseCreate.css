@@ -1,0 +1,17 @@
+.top2{
+    display: flex;
+    padding: 15px;
+}
+.edit{
+   
+    border: none;
+    border-bottom: 2px solid rgba(0, 102, 255, 0.842);
+    border-radius: 0;
+}
+.bod{
+    width: 35%;
+
+}
+.topedit{
+    margin: 25px;
+}

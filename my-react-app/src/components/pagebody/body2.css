@@ -1,0 +1,100 @@
+.head h2{
+    display: flex;
+    margin: 0;
+    font-size: 18px;
+    font-weight: normal;
+    color: #111;
+    padding: 20px;
+    position: relative;
+    font-family: 'Roboto', Arial, Tahoma, sans-serif;
+    top:10px;
+
+}
+.body {
+    padding: 5px 20px;
+    font-family: 'Roboto', Arial, Tahoma, sans-serif;
+    display:block;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-right: 8px;
+    margin-bottom: 13px;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 10px rgba(0, 0, 0, 0.12);
+    border-radius: 2px;
+}
+.waves-effect {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+.card{
+    border-radius: 0px;
+    background-color: #ffffff;
+    border-bottom: 1px solid rgba(204, 204, 204, 0.35);
+    width: 98%;
+    margin-left: 0px;
+    margin-right: 30px;
+}
+.bg-amber{
+    color: #fff;
+    background-color: #FFC107;
+}
+.bg-black{
+color: #fff;
+}
+.bg-cyan{
+color: #fff;
+background-color: #00BCD4;
+}
+.bg-green{
+color: #fff;
+background-color:green
+}
+.bg-teal{
+    color: #fff;
+    background-color: teal;
+}
+.bg-orange{
+color: #fff;
+background-color: orange;
+}
+.bg-blue{
+color: #fff;
+background-color: blue;
+}
+.bg-light-blue{
+    color: #fff;
+background-color: hwb(214 10% 5%);
+}
+.bg-lime{
+    color: #fff;
+    background-color: lime;
+}
+.bg-brown{
+color: #fff;
+}
+.bg-deep-orange{
+    color: #fff;
+    background-color: #FFC107;
+}
+.bg-deep-purple{
+    color: #fff;
+    background-color: rgb(56, 0, 56);
+}

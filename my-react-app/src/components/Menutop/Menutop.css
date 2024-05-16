@@ -1,0 +1,37 @@
+.menutop{
+    display: flex;
+    width: 100%;
+    top: 0;
+    background-color: #03A9F4;
+    height: 70px;
+    font-weight: 600;
+    color:#fff;
+    position:fixed;
+
+    font-family: "Roboto", sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    z-index: 1000;
+    
+}
+.icon{
+    color: #fff;
+}
+.dropdown{
+    position: fixed;
+
+}
+.submenu{
+ margin-left: -80px;
+ position: fixed;
+ border-radius: 7px;
+ padding: 14px;
+  background-color: rgb(248, 233, 164);
+  border:1px solid rgb(145, 139, 139);
+}
+.listed{
+    margin: 2px;
+}

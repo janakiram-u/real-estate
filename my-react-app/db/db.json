@@ -1,0 +1,333 @@
+{
+  "Login": [
+    {
+      "email": "janakiram@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "madhu@gmail.com",
+      "password": "12345"
+    },
+    {
+      "email": "synergy@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "task@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "project": [
+    {
+      "id": 1,
+      "Name": "Ram",
+      "location": "Bangalore",
+      "Description": "busines"
+    },
+    {
+      "id": 2,
+      "Name": "sam",
+      "location": "canada",
+      "Description": "play"
+    },
+    {
+      "id": 3,
+      "Name": "ben",
+      "location": "california",
+      "Description": "student"
+    },
+    {
+      "id": 4,
+      "Name": "vamsi",
+      "location": "london",
+      "Description": "job"
+    },
+    {
+      "id": 5,
+      "Name": "ajay",
+      "location": "australia",
+      "Description": "govt employee"
+    },
+    {
+      "id": 6,
+      "Name": "ravi",
+      "location": "rajasthan",
+      "Description": "venor"
+    },
+    {
+      "id": 7,
+      "Name": "tarun",
+      "location": "nepal",
+      "Description": "bussiness",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "Name": "firoz",
+      "location": "nellore",
+      "Description": "employee",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "Name": "chandru",
+      "location": "bangalore",
+      "Description": "employee",
+      "isActive": true
+    },
+    {
+      "id": 10,
+      "Name": "Raj",
+      "location": "Usa",
+      "Description": "shopkeeper",
+      "isActive": true
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "Name": "Ravi layout",
+      "Size": "40yards",
+      "Price": "6lakhs",
+      "Total": "6.5 lakhs"
+    },
+    {
+      "id": 2,
+      "Name": "house",
+      "Size": "56yards",
+      "Price": "5lakhs",
+      "Total": "5.4lakhs"
+    },
+    {
+      "id": 3,
+      "Name": "shop",
+      "Size": "25 yards",
+      "Price": "4.5lakhs",
+      "Total": "4.8 lakhs",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "Name": "field",
+      "Size": "2 acres",
+      "Price": "1 crore",
+      "Total": "1.2 crores",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "Name": "Appartment",
+      "Size": "50 yards",
+      "Price": "10 crores",
+      "Total": "10.2 crores",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "Name": "hotel",
+      "Size": "45 yards",
+      "Price": "56 lakhs",
+      "Total": "65 lakhs",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "Name": "garden",
+      "Size": "100 yards",
+      "Price": "2 crores",
+      "Total": "2.3 crores",
+      "isActive": true
+    }
+  ],
+  "sell": [
+    {
+      "id": 1,
+      "CustomerName": "ravi",
+      "ProjectName": "ten",
+      "ProductId": "124",
+      "SellerName": "kumar"
+    },
+    {
+      "id": 2,
+      "CustomerName": "varma",
+      "ProjectName": "star",
+      "ProductId": "564",
+      "SellerName": "raj"
+    },
+    {
+      "id": 3,
+      "CustomerName": "jessi",
+      "ProjectName": "cons",
+      "ProductId": "789",
+      "SellerName": "kumar"
+    },
+    {
+      "id": 4,
+      "CustomerName": "ram",
+      "ProjectName": "det",
+      "ProductId": "490",
+      "SellerName": "javeed",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "CustomerName": "vaseem",
+      "ProjectName": "frost",
+      "ProductId": "543",
+      "SellerName": "prem",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "CustomerName": "venkatesh",
+      "ProjectName": "unite",
+      "ProductId": "908",
+      "SellerName": "babu",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "CustomerName": "ramesh",
+      "ProjectName": "hent",
+      "ProductId": "854",
+      "SellerName": "suresh",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "CustomerName": "manish",
+      "ProjectName": "ufo",
+      "ProductId": "793",
+      "SellerName": "sherlock",
+      "isActive": true
+    }
+  ],
+  "purchase": [
+    {
+      "id": 1,
+      "RequisitionId": "234",
+      "ProjectName": "house",
+      "EmployeeName": "gopal",
+      "RequisitionAmount": "13589",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "RequisitionId": "6787",
+      "ProjectName": "appartment",
+      "EmployeeName": "kiran",
+      "RequisitionAmount": "45667"
+    },
+    {
+      "id": 3,
+      "RequisitionId": "6788",
+      "ProjectName": "restaurent",
+      "EmployeeName": "kishan",
+      "RequisitionAmount": "67896"
+    },
+    {
+      "id": 4,
+      "RequisitionId": "895",
+      "ProjectName": "estate",
+      "EmployeeName": "jakie",
+      "RequisitionAmount": "6432",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "RequisitionId": "767",
+      "ProjectName": "garden",
+      "EmployeeName": "chandra",
+      "RequisitionAmount": "8965",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "RequisitionId": "2319",
+      "ProjectName": "mall",
+      "EmployeeName": "jolie singh",
+      "RequisitionAmount": "13429",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "RequisitionId": "986",
+      "ProjectName": "gym",
+      "EmployeeName": "guru",
+      "RequisitionAmount": "98564",
+      "isActive": true
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "Name": "manohar",
+      "Phone": "76543467",
+      "Email": "manohar@gmail.com",
+      "Department": "testing"
+    },
+    {
+      "id": 2,
+      "Name": "vishnu",
+      "Phone": "689345687",
+      "Email": "vishnu@gmail.com",
+      "Department": "development"
+    },
+    {
+      "id": 3,
+      "Name": "rajiv",
+      "Phone": "98642556",
+      "Email": "rajiv@gmail.com",
+      "Department": "analyst",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "Name": "janani",
+      "Phone": "896435688",
+      "Email": "janani@gmail.com",
+      "Department": "database",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "Name": "vishal",
+      "Phone": "639866432",
+      "Email": "vishal@gmail.com",
+      "Department": "devops",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "Name": "satish",
+      "Phone": "875321356",
+      "Email": "satish@gmail.com",
+      "Department": "analyst",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "Name": "mohan",
+      "Phone": "984246790",
+      "Email": "mohan@gmail.com",
+      "Department": "testing",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "Name": "john",
+      "Phone": "87360865",
+      "Email": "john@gmail.com",
+      "Department": "developer",
+      "isActive": true
+    }
+  ]
+}
